@@ -1,0 +1,2 @@
+[console_scripts]
+chart_gen = main:main
